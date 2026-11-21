@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'ABeeZee', sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+  }
+}
+
+.font-jua {
+  font-family: 'Jua', sans-serif;
+}
+
+.font-abeezee {
+  font-family: 'ABeeZee', sans-serif;
+}
+
+.font-inter {
+  font-family: 'Inter', sans-serif;
+}
